@@ -1,6 +1,0 @@
-csv
-name,movie,pet
-Aun,harry potter,bird
-Ben,john wick,cat
-Cen,scary movie,dog
-Den,jurassic park,fish
